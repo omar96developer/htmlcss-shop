@@ -5,6 +5,15 @@
     font-family: 'Kaisei HarunoUmi', serif;
 }
 
+span {
+    font-size: 12px;
+    font-weight:bold;
+}
+
+img {
+    height: 500px;
+}
+
 a.cuore {
     position: absolute;
     width: 50px;
@@ -16,14 +25,6 @@ a.cuore {
     text-decoration: none;
     font-size: xx-large;
     text-align: center;
-}
-span {
-    font-size: 12px;
-    font-weight:bold;
-}
-
-img {
-    height: 500px;
 }
 
 .container {
@@ -89,3 +90,4 @@ a.info {
     text-decoration: none;
     color: black;
 }
+
