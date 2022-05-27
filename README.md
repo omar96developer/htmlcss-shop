@@ -1,9 +1,9 @@
 
-# NEORI
+# ZALANDBOOL
 Hello everybody!  
 
 
-In this project i created a static Website using HTML, and different CSS POSITIONS.
+In this project i created a static Website inspired by zalando, using HTML and different CSS POSITIONS.
   
 
 
